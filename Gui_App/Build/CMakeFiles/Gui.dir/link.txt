@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/Gui.dir/Dependancies/Includes/glad.c.o CMakeFiles/Gui.dir/src/main.cpp.o -o /home/roko/Development/Projects/Gui_App/Bin/Gui  -lglfw 

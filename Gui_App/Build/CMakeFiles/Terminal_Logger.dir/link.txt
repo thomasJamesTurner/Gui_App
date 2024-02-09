@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/Terminal_Logger.dir/Dependancies/Includes/glad.c.o CMakeFiles/Terminal_Logger.dir/src/main.cpp.o -o /home/roko/Development/Projects/Gui_App/Bin/Terminal_Logger  -lglfw 

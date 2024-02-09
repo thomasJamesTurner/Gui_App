@@ -1,0 +1,7 @@
+/home/roko/Development/Projects/Gui_App/Build/CMakeFiles/Gui.dir
+/home/roko/Development/Projects/Gui_App/Build/CMakeFiles/edit_cache.dir
+/home/roko/Development/Projects/Gui_App/Build/CMakeFiles/rebuild_cache.dir
+/home/roko/Development/Projects/Gui_App/Build/CMakeFiles/list_install_components.dir
+/home/roko/Development/Projects/Gui_App/Build/CMakeFiles/install.dir
+/home/roko/Development/Projects/Gui_App/Build/CMakeFiles/install/local.dir
+/home/roko/Development/Projects/Gui_App/Build/CMakeFiles/install/strip.dir
